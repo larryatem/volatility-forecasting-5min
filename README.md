@@ -1,7 +1,6 @@
 # Intraday Volatility Forecasting Using Microstructure Features
 
-Author: Larry Kevin Atem Nkatcha
-
+### Author: Larry Kevin Atem Nkatcha
 Last Updated: December 2025
 
 # Overview
