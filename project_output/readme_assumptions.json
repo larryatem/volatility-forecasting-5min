@@ -1,0 +1,9 @@
+{
+  "RV_formula": "sum of squared 5-min log returns per day",
+  "DRV_formula": "RV_t - RV_{t-1}",
+  "micro_aggregation": "daily mean/std for spreads/mid, sum/mean for OFI and quote sizes",
+  "test_days": 60,
+  "top_k_features": 8,
+  "best_order_sarimax": "(1, 0, 0)",
+  "best_order_arimax": "(1, 0, 0)"
+}

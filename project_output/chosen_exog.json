@@ -1,0 +1,13 @@
+{
+  "top_feats": [
+    "m_std",
+    "OFI_mean_lag2",
+    "OFI_sum_lag2",
+    "B_std",
+    "m_std_lag1",
+    "A_std",
+    "OFI_mean_lag1",
+    "OFI_sum_lag1"
+  ],
+  "TOP_K": 8
+}
